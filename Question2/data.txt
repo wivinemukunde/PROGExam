@@ -1,0 +1,8 @@
+DATA LOG
+************************
+Customer Name: wivine
+Product: Cozy Nights Monarch
+VAT: R 67.5
+COMMISSION: R 22.5
+TOTAL: R 540.0
+************************
